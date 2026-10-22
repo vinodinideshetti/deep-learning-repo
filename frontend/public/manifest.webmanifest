@@ -1,0 +1,17 @@
+{
+  "name": "LeafCare AI — Plant leaf disease",
+  "short_name": "LeafCare",
+  "description": "Classify plant leaf images with a TensorFlow model and FastAPI backend.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/leaf.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
